@@ -1,10 +1,10 @@
 ---
-title: "Homepage"
-author: "Kathleen Johnson"
-date: "August 15, 2018"
+title: "Abstract"
+author: 
+date: 
 output: 
   html_document: 
     theme: cerulean
 ---
 
-Hello! Welcome to my awesome website!
+This is where the abstract would go. 
