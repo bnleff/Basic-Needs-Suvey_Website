@@ -2,7 +2,9 @@
 title: "Activities"
 author: ""
 date: ""
-output: html_document
+output: 
+  html_document: 
+    theme: cerulean
 ---
 
 ```{r setup, include=FALSE}

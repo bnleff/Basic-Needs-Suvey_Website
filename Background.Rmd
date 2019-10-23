@@ -1,8 +1,10 @@
 ---
 title: "Background"
-author: "Kathleen Johnson"
-date: "10/19/2019"
-output: html_document
+author: ""
+date: ""
+output: 
+  html_document: 
+    theme: cerulean
 ---
 
 ```{r setup, include=FALSE}
