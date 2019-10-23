@@ -1,0 +1,40 @@
+---
+title: "Activities"
+author: ""
+date: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+<div id="timeline" class="section level1">
+<h1>Timeline</h1>
+<ul>
+These are just some potential headers that could fit under activities. Can be edited to fit this project/survey activites. Describe the timeline of this project here.
+</ul>
+</div>
+
+<div id="describe-the-completed-project-activities-outcomes-and-deliverables." class="section level1">
+<h1>Describe the completed project activities, outcomes, and deliverables.</h1>
+
+<ul>
+What were the activites done? WHat were the outcomes? What were the deliverables?
+</ul>
+
+</div>
+<div id="the-project-team" class="section level1">
+<h1>The Project Team</h1>
+<ul>
+
+</div>
+Describe the project team here. 
+
+
+
+</div>
+
