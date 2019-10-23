@@ -9,6 +9,8 @@ navbar:
       href: Background.html
     - text: "Activities"
       href: activities.html
+    - text: "Survey Demographics"
+      href: SD.html
     - text: "Historical Trends"
       href: trends.html
     - text: "Redesign Analysis"
