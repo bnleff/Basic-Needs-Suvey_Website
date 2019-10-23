@@ -17,6 +17,7 @@ navbar:
       href: crt.html
     - text: "Impact"
       href: impact.html
+  
   right:
       - text: ""
         icon: fa-envelope-o
