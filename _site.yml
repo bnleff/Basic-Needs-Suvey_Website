@@ -6,7 +6,7 @@ navbar:
     - text: "Abstract"
       href: index.html
     - text: "Background"
-      href: bg.html
+      href: Background.html
     - text: "Activities"
       href: activities.html
     - text: "Historical Trends"
