@@ -11,10 +11,6 @@ navbar:
       href: Activities.html
     - text: "Survey Demographics"
       href: SD.html
-    - text: "Historical Trends"
-      href: trends.html
-    - text: "Redesign Analysis"
-      href: crt.html
     - text: "Impact"
       href: impact.html
   
